@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "message": "Initial release.",
+  "version": "1.0.1",
+  "message": "test update",
   "force": false,
-  "download_url": "https://github.com/CruciaTos/CruSam/releases/download/v1.0.0/Crusam.zip",
+  "download_url": "YOUR v1.0.0 OR dummy updated zip",
   "release_notes_url": "https://github.com/CruciaTos/CruSam/releases/tag/v1.0.0"
 }
