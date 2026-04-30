@@ -1,7 +1,7 @@
 {
-  "version": "1.1.3",
-  "message": "PDF UPDATE FIXES AND NAVIGATIONAL UPDATE",
+  "version": "1.1.34",
+  "message": "EMERGENCY FIX",
   "force": false,
-  "download_url": "https://github.com/CruciaTos/Crusam_RELEASE-VERSION/releases/download/v1.1.3/Crusam_v1.1.3.zip",
-  "release_notes_url": "https://github.com/CruciaTos/Crusam_RELEASE-VERSION/releases/tag/v1.1.3"
+  "download_url": "https://github.com/CruciaTos/Crusam_RELEASE-VERSION/releases/download/v1.1.4/Crusam_v1.1.4.zip",
+  "release_notes_url": "https://github.com/CruciaTos/Crusam_RELEASE-VERSION/releases/tag/v1.1.4"
 }
