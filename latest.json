@@ -1,7 +1,7 @@
 {
-  "version": "1.1.41",
-  "message": "Cloud update",
+  "version": "1.1.42",
+  "message": " Salary Disbursement update",
   "force": false,
-  "download_url": "https://github.com/CruciaTos/Crusam_RELEASE-VERSION/releases/download/v1.1.41/Crusam_v1.1.41.zip",
-  "release_notes_url": "https://github.com/CruciaTos/Crusam_RELEASE-VERSION/releases/tag/v1.1.41"
+  "download_url": "https://github.com/CruciaTos/Crusam_RELEASE-VERSION/releases/download/v1.1.41/Crusam_v1.1.42.zip",
+  "release_notes_url": "https://github.com/CruciaTos/Crusam_RELEASE-VERSION/releases/tag/v1.1.42"
 }
